@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-GB1OR7N" name="inetbanking9.com.testcases.TC_LoginTest_001" tests="1" failures="0" timestamp="4 Jul 2022 09:59:23 GMT" time="100.343" errors="0">
+  <testcase name="logintest" time="59.517" classname="inetbanking9.com.testcases.TC_LoginTest_001"/>
+</testsuite>

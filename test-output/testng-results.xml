@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="inetbanking9" duration-ms="100343" started-at="2022-07-04T15:27:43Z" finished-at="2022-07-04T15:29:23Z">
+    <groups>
+    </groups>
+    <test name="bankingapp" duration-ms="100343" started-at="2022-07-04T15:27:43Z" finished-at="2022-07-04T15:29:23Z">
+      <class name="inetbanking9.com.testcases.TC_LoginTest_001">
+        <test-method status="PASS" signature="setup(java.lang.String)" name="setup" is-config="true" duration-ms="38911" started-at="2022-07-04T15:27:43Z" finished-at="2022-07-04T15:28:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="logintest()" name="logintest" duration-ms="59517" started-at="2022-07-04T15:28:22Z" finished-at="2022-07-04T15:29:21Z">
+        </test-method>
+        <test-method status="PASS" signature="teardown()" name="teardown" is-config="true" duration-ms="1901" started-at="2022-07-04T15:29:21Z" finished-at="2022-07-04T15:29:23Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

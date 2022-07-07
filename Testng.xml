@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name ="inetbanking9">
+<test name = "bankingapp">
+<parameter name ="browser" value ="chrome" />
+<classes>
+<class name = "inetbanking9.com.testcases.TC_LoginTest_001"/>
+</classes>
+</test>
+</suite>
